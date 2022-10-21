@@ -1,7 +1,6 @@
 from operator import ge
 from pickle import TRUE
 from ssl import HAS_TLSv1_1
-from tkinter import CENTER
 import streamlit as st
 import json
 import pandas as pd
