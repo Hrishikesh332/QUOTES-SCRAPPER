@@ -5,4 +5,4 @@ streamlit_option_menu
 bs4
 streamlit_lottie
 streamlit_option_menu
-tkinter
+
